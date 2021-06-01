@@ -1,0 +1,17 @@
+body {
+    background-color: deepskyblue;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    }
+img {
+border-radius: 50%;
+}
+h1 {
+  text-shadow: 2px 2px #ff66ff;
+}
+
+p {
+  font-size: 27px;
+    text-align: center;
+}
